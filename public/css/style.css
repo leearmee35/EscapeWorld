@@ -1,0 +1,47 @@
+
+.card{
+    border: 2px solid #e74c3c;
+    border-radius: 8px;
+    min-height: 200px;
+    max-width: 550px;
+    padding: 0px;
+    margin-top: 16px;
+    margin-left: 16px;
+    font-family: monospace;
+}
+
+.cardboy{
+    border: 2px solid #3498db;
+    border-radius: 8px;
+    min-height: 200px;
+    max-width: 550px;
+    padding: 0px;
+    margin-top: 16px;
+    margin-left: 16px;
+    font-family: monospace;
+}
+.leftmargin{
+    margin-left: 20px;
+    height: 200px;
+}
+
+.weather{
+    display: inline-block;
+    margin-top: 8px;
+    font-size: 20px;
+}
+.subweather{
+    display: inline-block;
+}
+.degree{
+    position: relative;
+    top: -10px;
+    left: 0px;
+    font-size: 40px;
+}
+.date{
+    position: absolute;
+    text-align: right;
+    right: 20px;
+    bottom: 10px;
+}
